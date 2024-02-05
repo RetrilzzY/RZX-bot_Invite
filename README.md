@@ -1,4 +1,3 @@
 # RZX-bot_Invite
 
-
-Подробнее о боте  RZX-bot - [Документация](https://docs.rzx.ehd.lol)
+Подробнее о боте RZX-bot - [Веб-сайт](https://rzx.ehd.lol)
